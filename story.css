@@ -1,0 +1,26 @@
+body {margin: 0;
+    width: 90%;
+    height: 100%;
+    color: darkred;}
+body {font-family: 'Open Sans', sans-serif;}
+html {
+    background: url(https://i.ibb.co/zJ28bF7/Chinese-Farmer.jpg) no-repeat center fixed;
+    background-size: cover;}
+.boxed {border: 1px floralwhite ;
+margin: auto;
+width: 50%}
+header {background-color: yellow;}
+table {margin: auto;}
+tbody tr:nth-child(odd) {background-color: #918a8a;}
+tbody tr:nth-child(even) {background-color: rgba(81, 117, 21, 0.21);}
+a:active {color: forestgreen;}
+a:visited {color:orangered;}
+p.small {line-height: 0.8;}
+p.big {line-height: 1.8;}
+.Good {text-transform: uppercase; color: green;}
+.Bad {color: red;}
+.Bad {text-transform: uppercase;}
+p {font-weight: bold;}
+.Neighbour {border-left: orangered 3px solid}
+.Farmer {border-left: blue 3px solid}
+.conclusion {background-color: yellow}
